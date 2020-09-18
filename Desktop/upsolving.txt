@@ -1,0 +1,18 @@
+atocoder 162 and 163 last3
+atcoder 162 ka last wala princess farida se same hai bas usme n/2 elements bi ensre karne hain. 
+atcoder dp contest knapsack 2 and remaining to be done
+atcoder me 174 contests ke2
+--------------------------------------------------------------------------------------------------------------
+prefix function(kmp) dekhna hai fir wo period of string solve karna hai.
+------------------------------------------------------------------------------------------------------------
+spoj ka segment tree ka ek non-trivial question upsolve.
+ -----------------------------------------------------------------------------------------------------------
+codechef may20_long,uske bit aur triplesort karne hain.
+------------------------------------------------------------------------------------------------------------
+codechef aug long 
+594 div3 ka 1 question
+662 div2 ques 2
+-----------------------------------------------------------------------------------------------------------
+codeforces me 632 eugene and array.
+codeforces me matrix wala 654div2 got the idea during contest.Have to implement it now
+------------------------------------------------------------------------------------------------------
